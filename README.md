@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/onkardattatraylagad/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0136-single-number) |
+| [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/onkardattatraylagad/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/onkardattatraylagad/leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -42,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/onkardattatraylagad/leetcode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
