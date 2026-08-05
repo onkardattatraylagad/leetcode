@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/onkardattatraylagad/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/onkardattatraylagad/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/onkardattatraylagad/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/onkardattatraylagad/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/onkardattatraylagad/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
