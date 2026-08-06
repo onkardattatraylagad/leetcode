@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/onkardattatraylagad/leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/onkardattatraylagad/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/onkardattatraylagad/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/onkardattatraylagad/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
