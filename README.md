@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/onkardattatraylagad/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/onkardattatraylagad/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/onkardattatraylagad/leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/onkardattatraylagad/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
