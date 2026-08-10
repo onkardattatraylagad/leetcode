@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/onkardattatraylagad/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/onkardattatraylagad/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/onkardattatraylagad/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/onkardattatraylagad/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/onkardattatraylagad/leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/onkardattatraylagad/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/onkardattatraylagad/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
