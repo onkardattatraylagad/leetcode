@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/onkardattatraylagad/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0179-largest-number) |
+| [0228-summary-ranges](https://github.com/onkardattatraylagad/leetcode/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/onkardattatraylagad/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/onkardattatraylagad/leetcode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/onkardattatraylagad/leetcode/tree/master/0486-predict-the-winner) |
